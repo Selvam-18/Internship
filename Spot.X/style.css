@@ -1,0 +1,57 @@
+.brand{
+    font-size: 2rem;
+    padding: 10px;
+}
+nav{
+    background-color: #007cd9; 
+    color: white;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-nav a{
+    padding: 5px;
+    margin: 10px;
+    color: white;
+    font-size: 1rem;
+    
+}
+.navbar-nav a:hover{
+    background-color: white;
+    color: #007cd9;
+}
+
+.moto{
+    height: 100vh;
+    align-content: center;
+    justify-content: center;   
+
+}
+.device{
+    background-color: #007cd9;
+    color: white;
+}
+.card-body{
+    background-color: #007cd9;
+    color: white;
+}
+.card{
+    border: 1px solid black;
+}
+.game{
+   background-color: #007cd9; 
+   text-align: center;
+   padding: 10px;
+   color: white;
+}
+.game img{
+    width: 100%;
+    position: relative;
+}
+
+.offer{
+    height: 60vh;
+    align-content: center;
+    color: #06038D;
+    background-image: linear-gradient(180deg, #ff671f 0%, #ffffff 50%, #046a38 100%);
+}
